@@ -58,7 +58,7 @@
     "debug": "^2.2.0",
     "fs-promise": "^0.3.1",
     "get-stdin": "^8.0.0",
-    "glob-promise": "^1.0.4",
+    "glob-promise": "^6.0.3",
     "handlebars": "^4.0.5",
     "lodash.merge": "^4.6.2",
     "minimist": "^1.2.0",
